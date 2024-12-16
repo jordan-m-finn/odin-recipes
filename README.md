@@ -1,1 +1,1 @@
-# odin-recipes
+This was created to demonstrate basic webpage building skills and test my knowledge on HTML semantics.
